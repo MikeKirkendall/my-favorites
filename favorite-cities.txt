@@ -1,0 +1,11 @@
+homework - my favorites project
+create a folder under Git-Instruction named my-favorites
+
+create txt files for favorite-stuff
+-favorite-music artist
+-favorite-movies
+-favorite-car manufacturers
+-favorite-cities
+
+make my-favorites a repo 
+push to github
